@@ -189,3 +189,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# ignore get_input.py script(s)
+get_input.py
