@@ -2,10 +2,6 @@
 
 from collections import defaultdict
 import fileinput
-from typing import TYPE_CHECKING, Dict, List, Tuple
-
-# if TYPE_CHECKING:
-#     from fileimput import FileInput
 
 
 def read_input():
