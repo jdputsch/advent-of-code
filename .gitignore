@@ -192,3 +192,6 @@ Temporary Items
 
 # ignore get_input.py script(s)
 get_input.py
+
+# ignore *.in files
+*.in
